@@ -1,4 +1,4 @@
-# AsyDiL - Asymmetric Dictionary Learning
+# Cone-OMP - Cone Orthogonal Matching Pursuit
 
 We present a novel method used for anomaly detection. In the following scenario, we obtain good results in the detection of abnormal heartbeats. The method consists of the use of sparse representations which use atoms that are not vectors, but cones. We named this method Cone Orthogonal Matching Pursuit (Cone-OMP).
 
@@ -7,7 +7,14 @@ We present a novel method used for anomaly detection. In the following scenario,
 This represents the main resources necessary for the reproduction of the results presented in “Sparse representations with cone atoms”, by Denis C. Ilie Ablachim, Andra Băltoiu, and Bogdan Dumitrescu. If you use our work please cite the following paper
 
 ```
-...
+@inproceedings{ilie2023sparse,
+  title={Sparse Representations with Cone Atoms},
+  author={Ilie-Ablachim, Denis C and Baltoiu, Andra and Dumitrescu, Bogdan},
+  booktitle={ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE}
+}
 ```
 
 ## Project structure
